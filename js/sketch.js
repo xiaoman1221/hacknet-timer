@@ -1,5 +1,5 @@
 let counter = 0;
-let timeleft = 35;
+let timeleft = 90;
 let milis = 100;
 
 function convertSeconds(s) {
